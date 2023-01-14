@@ -1,0 +1,4 @@
+#Sat Jan 14 06:51:16 SGT 2023
+base.0=C\:\\Users\\Evian\\Documents\\project android\\uas_syifa\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
